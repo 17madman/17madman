@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Nathan 👋
+
+I'm a third-year Computer Engineering major at Pennsylvania State University. Here on my Github you can find a few examples of code I've written, for both personal and academic purposes!
+
+🌱 I’m currently learning C++
+📫 How to reach me: You can email me at nss5405@psu.edu
 
 <!--
 **17madman/17madman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
