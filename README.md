@@ -2,7 +2,7 @@
 
 I'm a third-year Computer Engineering major at Pennsylvania State University. Here on my Github you can find a few examples of code I've written, for both personal and academic purposes!
 
-🌱 I’m currently learning C++
+🌱 I’m currently learning C++\
 📫 How to reach me: You can email me at nss5405@psu.edu
 
 <!--
